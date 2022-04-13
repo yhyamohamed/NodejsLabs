@@ -1,0 +1,11 @@
+[
+  {
+    "user": "iti@iti.com",
+    "passWord": "123456"
+  }, {
+    "user": "yaya@iti.com",
+    "passWord": "123456"
+  },{ "user": "yaya@iti.com",
+    "passWord": "1345"
+  }
+]
